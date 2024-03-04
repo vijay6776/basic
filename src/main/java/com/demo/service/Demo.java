@@ -6,6 +6,8 @@ import org.springframework.stereotype.Component;
 public class Demo {
 	public Demo() {
 		// TODO Auto-generated constructor stub
+		System.out.println("Akula");
+		
 		System.out.println("vijay");
 	}
 
